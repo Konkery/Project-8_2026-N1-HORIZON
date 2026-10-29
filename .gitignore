@@ -59,6 +59,7 @@ temp*
 .vscode/
 node_modules/
 Thumbs.db
+desktop.ini
 
 
 !.gitignore
